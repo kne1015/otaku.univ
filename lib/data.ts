@@ -59,7 +59,7 @@ export type College = {
 export const colleges: College[] = [
   {
     name: "음성합성엔진대학",
-    tagline: "노래하는 목소리를 과학으로 설계하다",
+    tagline: "보컬로이드와 AI 음성 합성 기술의 발전사 및 음성합성엔진 현 시장의 연구",
     majors: [
       "보컬로이드학과",
       "UTAU학과",
@@ -107,7 +107,7 @@ export const colleges: College[] = [
   },
   {
     name: "게임대학",
-    tagline: "인터랙티브 미디어와 가챠의 인문학",
+    tagline: "글로벌 서브컬처 게임의 세계관과 인터랙티브 미디어",
     majors: [
       "호요버스학과",
       "블루아카이브학과",
@@ -115,9 +115,6 @@ export const colleges: College[] = [
       "프로젝트세카이학과",
       "앙상블스타즈학과",
       "미연시학과",
-      "동방프로젝트학과",
-      "프롬소프트웨어학과",
-      "포켓몬배틀학과",
     ],
     icon: "gamepad",
   },
@@ -134,8 +131,12 @@ export const colleges: College[] = [
   },
   {
     name: "서브컬처문학대학",
-    tagline: "라이트노벨과 팬픽션의 서사 이론",
-    majors: ["라이트노벨학과"],
+    tagline: "라이트노벨과 판타지 세계관의 서사 이론",
+    majors: [
+      "라이트노벨학과",
+      "웹소설학과",
+      "웹툰학과",
+    ],
     icon: "book",
   },
   {
@@ -146,14 +147,13 @@ export const colleges: College[] = [
       "포켓몬카드게임학과",
       "매직더개더링학과",
       "디지털TCG학과",
-      "카드보존감정학과",
     ],
     icon: "layers",
   },
   {
     name: "동방프로젝트대학",
-    tagline: "탄막과 환상향의 음악·설정 아카이빙",
-    majors: ["환상향민속학과", "탄막공학과", "동방편곡학과"],
+    tagline: "원작과 방대한 2차 창작물의 역사와 동인 문화 생태계",
+    majors: ["동방프로젝트학"],
     icon: "flower",
   },
 ]
