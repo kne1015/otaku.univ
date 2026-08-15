@@ -2,7 +2,7 @@ const stats = [
   { value: "7", label: "단과대학" },
   { value: "61", label: "학과" },
   { value: "2026", label: "개교 연도" },
-  { value: "∞", label: "덕질의 깊이" },
+  { value: "∞", label: "오타쿠 연대" },
 ]
 
 export function AboutIntro() {
@@ -18,10 +18,10 @@ export function AboutIntro() {
               덕질을 학문으로, 열정을 학위로.
             </h2>
             <p className="mt-5 text-pretty leading-relaxed text-muted-foreground">
-              오타쿠대학교는 서브컬처의 역사·미학·공학을 진지하게 연구하는 가상의
-              학술 캠퍼스입니다. 보컬로이드부터 버추얼, 게임, TCG, 동방프로젝트에
+              오타쿠대학교는 서브컬처를 학문으로 진지하게 연구하는 가상의
+               캠퍼스입니다. 보컬로이드부터 버추얼, 게임, TCG, 동방프로젝트에
               이르기까지 &mdash; 모든 &lsquo;최애&rsquo;는 곧 하나의 학문
-              분야입니다. 진리(Veritas)는 언제나 덕심 속에 있습니다.
+              분야입니다. 진리(Veritas)는 언제나 덕질 속에 있습니다.
             </p>
           </div>
 

@@ -31,7 +31,7 @@ export function Hero() {
 
       <div className="relative mx-auto flex max-w-7xl flex-col justify-center px-4 py-24 sm:px-6 sm:py-32 lg:px-8 lg:py-40">
         <p className="mb-4 inline-flex w-fit items-center gap-2 rounded-full border border-teal/40 bg-teal/10 px-4 py-1.5 text-xs font-semibold tracking-wide text-teal">
-          SINCE 2010 · FUTURE GADGET CAMPUS
+          SINCE 2026 ·   CAMPUS
         </p>
         <h1 className="max-w-3xl text-balance font-serif text-3xl font-black leading-tight text-navy-foreground sm:text-4xl lg:text-5xl">
           Veritas in Otaku

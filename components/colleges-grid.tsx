@@ -76,7 +76,7 @@ export function CollegesGrid() {
             COLLEGES &amp; DEPARTMENTS
           </p>
           <h2 className="mt-2 font-serif text-2xl font-bold text-foreground sm:text-3xl">
-            단과대학 요람
+            단과대학
           </h2>
           <p className="mx-auto mt-3 max-w-xl text-pretty text-sm leading-relaxed text-muted-foreground">
             {colleges.length}개 단과대학, {totalMajors}개 학과에서 서브컬처를
