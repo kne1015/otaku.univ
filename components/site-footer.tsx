@@ -1,5 +1,6 @@
 import { InstagramIcon } from "@/components/instagram-icon"
 import { UniversityCrest } from "@/components/university-crest"
+import { TwitterIcon } from "@/components/twitter-icon"
 
 export function SiteFooter() {
   return (
@@ -40,6 +41,17 @@ export function SiteFooter() {
                 >
                   <InstagramIcon className="h-4 w-4" />
                   @otaku.univ
+                </a>
+             </li>
+             <li>
+               <a
+                  href="https://x.com/otakuuniv"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 text-sm text-navy-foreground/85 transition-colors hover:text-teal"
+      >
+        <TwitterIcon className="h-4 w-4" />
+        @otakuuniv
                 </a>
               </li>
               <li>
