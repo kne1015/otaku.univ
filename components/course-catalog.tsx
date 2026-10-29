@@ -27,7 +27,7 @@ export function CourseCatalog() {
             </p>
           </div>
           <a
-            href="https://instagram.com/otaku.univ"
+            href="https://otaku-timetable.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 rounded-full bg-teal px-6 py-3 text-sm font-bold text-teal-foreground shadow-lg shadow-teal/20 transition-all hover:brightness-110"
