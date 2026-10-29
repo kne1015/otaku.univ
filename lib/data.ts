@@ -36,7 +36,7 @@ export const notices: Notice[] = [
   {
     category: "국제",
     title: "글로벌 서브컬처 교환학생 파견 모집",
-    date: "2025.12.10",
+    date: "2026.12.10",
   },
 ]
 
