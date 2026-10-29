@@ -324,7 +324,7 @@ export const colleges: College[] = [
       "Jpop학부",
       "게임음악학부",
     ],
-    icon: "sparkles",
+    icon: "audio",
   },
   {
     name: "서브컬쳐굿즈대학",
