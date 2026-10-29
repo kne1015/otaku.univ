@@ -380,10 +380,10 @@ export const courses: Course[] = [
     credits: "3-2-2",
   },
   {
-    title: "타임머신 제작 실습 1,2",
+    title: "타임머신 제작 실습 1",
     type: "전공심화",
     credits: "3-2-2",
   },
-  { title: "기초 에르디아어 / 거인학개론", type: "교양", credits: "3-3-0" },
-  { title: "보컬로이드 노래의 이해", type: "전공선택", credits: "3-3-0" },
+  { title: "기초에르디아어", type: "교양", credits: "3-3-0" },
+  { title: "국내 최초 비주얼 노벨 미연시 게임 탐구", type: "교양", credits: "3-1-2" },
 ]
