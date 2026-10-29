@@ -1,6 +1,6 @@
 const stats = [
-  { value: "7", label: "단과대학" },
-  { value: "300", label: "학과" },
+  { value: "11", label: "단과대학" },
+  { value: "230", label: "학과" },
   { value: "2026", label: "개교 연도" },
   { value: "∞", label: "오타쿠 연대" },
 ]
