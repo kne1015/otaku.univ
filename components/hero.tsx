@@ -28,7 +28,7 @@ export function Hero() {
           </span>
         </h1>
         <p className="mt-6 max-w-2xl text-pretty text-base leading-relaxed text-navy-foreground/80 sm:text-lg">
-          2026학년도 오타쿠대학교 신입생 및 전임교원 모집 안내
+          애니 / 게임 / 보컬로이드 / 버츄얼 / 특촬 / 동방프로젝트 통합 캠퍼스
         </p>
 
         <div className="mt-9 flex flex-col gap-3 sm:flex-row sm:items-center">
