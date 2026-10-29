@@ -42,7 +42,7 @@ export function FeaturedFaculty() {
             <div className="mt-4 flex flex-col gap-2 text-sm text-navy-foreground/85">
               <p className="flex items-center gap-2">
                 <GraduationCap className="h-4 w-4 shrink-0 text-teal" />
-                보컬로이드역사학 박사 / 보컬로이드학과 주임교수
+                보컬로이드학과 주임교수 / 오타쿠대학교 총장
               </p>
               <p className="flex items-center gap-2">
                 <FlaskConical className="h-4 w-4 shrink-0 text-teal" />
